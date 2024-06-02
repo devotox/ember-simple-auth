@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@ember/optional-features": "^2.0.0",
-    "@ember/test-helpers": "~2.7.0",
+    "@ember/test-helpers": "~3.3.0",
     "@ember/legacy-built-in-components": "^0.4.1",
     "@glimmer/component": "^1.0.0",
     "@glimmer/tracking": "^1.0.0",
